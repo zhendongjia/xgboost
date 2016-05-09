@@ -8,6 +8,7 @@
 #define XGBOOST_TREE_PARAM_H_
 
 #include <vector>
+#include <cmath>
 #include <cstring>
 
 namespace xgboost {
